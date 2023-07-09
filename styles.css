@@ -1,0 +1,54 @@
+.top-container{
+  display: inline-block;
+  background-color: hsl(31, 77%, 52%);
+  height: 600px;
+  width: 25%;
+}
+.middle-container{
+  display: inline-block;
+  background-color: hsl(184, 100%, 22%);
+  height: 600px;
+  width: 25%;
+}
+.botton-container{
+  display: inline-block;
+  background-color: hsl(179, 100%, 13%);
+  height: 600px;
+  width: 25%;
+}
+h1, pre{
+  text-align: left;
+  margin-left: 10%;
+  line-height: 25px;
+}
+.Specific{
+  font-family: 'Big Shoulders Display';
+  font-size: 50px;
+  font-weight: 700;
+  padding-bottom: 40px;
+  color:hsl(0, 0%, 95%);
+  margin-top: 50px;
+}
+.pre-specific{
+  font-family: 'Lexend Deca';
+  font-weight: 400;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 15px;
+  margin-left: 10px;
+  padding-bottom: 70px;
+
+}
+button{
+  margin-bottom: 20px;
+  border-radius: 12px;
+  background-color: hsl(0, 0%, 95%);
+  margin-left: 10%;
+}
+
+div{
+  text-align: left;
+}
+img{
+   margin-left: 10%;
+   margin-top: 20%;
+}
