@@ -36,8 +36,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:
+  https://github.com/madhura-punde/3-Column-Preview-Card-Component/blob/main/index.html
+  https://github.com/madhura-punde/3-Column-Preview-Card-Component/blob/main/styles2.css
+  
+- Live Site URL: https://madhura-punde.github.io/3-Column-Preview-Card-Component/
 
 ## My process
 
