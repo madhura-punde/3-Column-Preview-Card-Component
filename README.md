@@ -29,6 +29,9 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
+<img width="1323" alt="Screenshot 2023-07-08 at 11 40 26 PM" src="https://github.com/madhura-punde/3-Column-Preview-Card-Component/assets/101276214/ceae6e37-9820-4919-b404-a7376fe41807">
+
+
 
 
 ### Links
