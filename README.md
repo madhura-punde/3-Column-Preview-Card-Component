@@ -31,6 +31,7 @@ Users should be able to:
 
 <img width="1323" alt="Screenshot 2023-07-08 at 11 40 26 PM" src="https://github.com/madhura-punde/3-Column-Preview-Card-Component/assets/101276214/ceae6e37-9820-4919-b404-a7376fe41807">
 
+<img width="242" alt="iohone-xr" src="https://github.com/madhura-punde/3-Column-Preview-Card-Component/assets/101276214/60fb06a9-a7bf-4755-a3e1-9afd5e10fdeb">
 
 
 
@@ -61,9 +62,7 @@ I have developed this project in 2 ways
 1) Refer styles.css -- without CSS Flexbox.
 2) Refer styles2.css -- with CSS Flexbox.
 
-An implementation done using flex, has responsiveness to some extend.
-The code demonstrates a responsive design approach using media queries
-The breakpoint settting is at 800px.
+An implementation done using flex, is completely responsiveness.
 
 ### Continued development
 
