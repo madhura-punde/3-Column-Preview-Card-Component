@@ -6,7 +6,7 @@
 
 }
 body{
-  background-color: antiquewhite;
+  background-color: hsl(0, 0%, 95%);
 }
 .top-container, .middle-container, .botton-container{
   height: 600px;
